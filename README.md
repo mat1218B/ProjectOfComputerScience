@@ -12,7 +12,7 @@ project for the 'Foundations of Computer Science' course - UNIMIB
 ```
 ├── README.md
 ├── adoptions
-├── progetto-2022
+├── Project-CS_2022
 ```
 
 ## Contributing Members
