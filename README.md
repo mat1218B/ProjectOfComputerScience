@@ -18,3 +18,5 @@ project for the 'Foundations of Computer Science' course - UNIMIB
 ## Contributing Members
 
 - Birti Mattia
+- Longo Gloria
+- Porrini Alberto
